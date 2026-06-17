@@ -1,0 +1,5 @@
+aiogram>=3.0.0
+stendly>=0.2.1
+httpx[http2]>=0.27.0,<1.0
+flask>=3.0.0
+requests>=2.31.0
